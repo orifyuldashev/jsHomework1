@@ -76,11 +76,78 @@
 
 // Begin9
 
-let a = 5;
-let b = 8;
-let c = (a * b) 2**;
+// let a = 8;
+// let b = 2;
+// let c = a * b;
 
-console.log(c);
+// let d = c ** (1 / 2);
+
+// console.log(d);
+
+// Begin10
+
+// let a = 5;
+// let b = 6;
+
+// let c = a + b;
+// let d = a * b;
+// let f = a ** 2;
+// let g = b ** 2;
+
+
+// console.log("Yigindisi", c);
+// console.log("Kopaytmasi", d);
+// console.log("b kvadrati", f);
+// console.log("a yigindisi", g);
+
+// Begin11
+
+// let a = 5;
+// let b = 6;
+
+// let c = a + b;
+// let d = a * b;
+// let f = a - c;
+// let g = b - c;
+
+
+// console.log("Yigindisi", c);
+// console.log("Kopaytmasi", d);
+// console.log("b moduli", f);
+// console.log("a moduli", g);
+
+// Begin12
+
+// let a = 5;
+// let b = 8;
+
+// let c = ( a**2 + b**2)*(1/2)
+// let P = a + b + c;
+
+// console.log(c);
+// console.log(P);
+
+// Begin13
+
+// let p = 3.14;
+// let R1 = 3;
+// let R2 = 2;
+
+// let S3 = p * (R1 - R2);
+// let S1 = p * R1;
+// let S2 = p * R2;
+
+// console.log(S1);
+// console.log(S2);
+// console.log(S3);
+
+// Begin14
+
+let L = 7;
+let P = 3.14;
+
+
+
 
 
 
