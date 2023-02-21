@@ -143,8 +143,8 @@
 
 // Begin14
 
-let L = 7;
-let P = 3.14;
+// let L = 7;
+// let P = 3.14;
 
 
 
